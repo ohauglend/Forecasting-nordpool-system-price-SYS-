@@ -159,7 +159,7 @@ experiencing just before the breaking point.
 Table 3 shows an overview of the
 performance metrics for the VAR model.
 
-<img align="center" img width="300" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176754105-d08ea08b-91bb-4b54-a347-63cc7a40797b.png">
+<img align="center" img width="300" height="200" alt="image" src="https://user-images.githubusercontent.com/64472833/176754105-d08ea08b-91bb-4b54-a347-63cc7a40797b.png">
 
 Since the RMSE and MAE are scale
 dependent, these will be commented on
@@ -223,7 +223,7 @@ Table 4 shows an overview of the
 performance metrics for the dynamic
 regression model.
 
-<img align="center" img width="300" height="300" alt="image" src="https://user-images.githubusercontent.com/64472833/176754322-61ca0d5c-be41-4701-870d-853e3046c4e1.png">
+<img align="center" img width="300" height="200" alt="image" src="https://user-images.githubusercontent.com/64472833/176754322-61ca0d5c-be41-4701-870d-853e3046c4e1.png">
 
 Looking at the metrics, they favour the
 dynamic regression model, as all values
